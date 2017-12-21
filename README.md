@@ -8,7 +8,7 @@ Our tests showed that until version 16.04 lubuntu can be installed on a Pentium 
 
 ## Applications in lubuntu
 
-lubuntu is a full-featured desktop, that includes a selection of lightweight tools and applications. Here are links with details and the list of [Installed Tools](https://help.ubuntu.com/community/Lubuntu/Setup#Installed_Tools) and [Applications in lubuntu.](https://help.ubuntu.com/community/Lubuntu/Setup#Applications)
+lubuntu is a full-featured desktop, that includes a selection of lightweight tools and applications. Here are links with details and the list of [Installed Tools](https://help.ubuntu.com/community/Lubuntu/Setup#Installed_Tools) and [Applications in lubuntu](Applications.md).
 
 ## Current lubuntu Releases
 
